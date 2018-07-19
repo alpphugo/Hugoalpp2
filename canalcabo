@@ -9,7 +9,7 @@
  
 <item>
 <title>[COLOR white][B]Globo News[/B][/COLOR]</title>
-<link>http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8</link>
+<link>http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8</link>
 <thumbnail>http://i.imgur.com/c21RpSs.png</thumbnail>
 <fanart></fanart>
 </item>
