@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+ 
+<item>
+<title>[COLOR white][B]TV Escola[/B][/COLOR]</title>
+<link>http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8</link>
+<thumbnail>http://jogosmareciatorrent.xpg.uol.com.br/logs/Tvescolalogo2014.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR white][B]Globo News[/B][/COLOR]</title>
+<link>http://173.236.10.10:1935/gvnews/gvnews/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/c21RpSs.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR white][B]SPORT TV2 ING.[/B][/COLOR]</title>
+<link>http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_5_2264000.m3u8</link>
+<thumbnail>http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/08/sportv2.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR white][B]ALL SPORTS[/B][/COLOR]</title>
+<link>http://173.236.10.10:1935/dgrau/dgrau/chunklist_w549339512.m3u8</link>
+<thumbnail>http://static.wixstatic.com/media/ad6cfb_637b3ca7aa274380b3583f8ae3367ea5.png_srz_291_184_85_22_0.50_1.20_0.00_png_srz</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR white][B]Fox Sports[/B][/COLOR]</title>
+<link>http://95.141.32.136:8081/look/foxsports/playlist.m3u8?PEDROJUNIORTUTORIAIS</link>
+<thumbnail>https://s20.postimg.org/6t0raqvf1/Fox_Sport.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR white][B]Mega TV[/B][/COLOR]</title>
+<link>http://rtmp.cdn.upx.net.br:1935/00135_4/myStream.sdp/chunklist_w2064216459.m3u8</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5nFAJvpOUuMyaQkI_sLUxsXogQ9dJw6QuglcpqaOFj83WUmEF</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR white][B]TV-Ilha[/B][/COLOR]</title>
+<link>http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8</link>
+<thumbnail>http://tvnailha.com.br/site/wp-content/uploads/2016/04/tv-tem-540x675.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR white][B]Cine On demand[/B][/COLOR]</title>
+<link>http://stmv2.euroti.com.br:1935/mandruva/mandruva/live.m3u8?wowzasessionid=412620615</link>
+<thumbnail>https://pekdek.com.br/fotos/2013/04/Telecine-On-Demand-como-funciona.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR white][B]Cine Claro[/B][/COLOR]</title>
+<link>http://inalamega.com.br:1935/tvcariocanet/tvcariocanet/playlist.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-ZSlmgjYkwFU/UiGBUtmBp4I/AAAAAAAABFI/6KH7F2oCKgE/s320/images.jpeg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR white][B]Via morena[/B][/COLOR]</title>
+<link>http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8</link>
+<thumbnail>http://www.streamytv.net/wp-content/uploads/2015/07/Via-Morena-TV.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR white][B]Fox[/B][/COLOR]</title>
+<link>http://tv.ec.cx:1935/redecanais-stream-fox/myStream/playlist.m3u8</link>
+<thumbnail>https://s32.postimg.org/7y1thriph/Fox.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR white][B]Disney XD[/B][/COLOR]</title>
+<link>http://tv.ec.cx:1935/redecanais-stream-disneyxd/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS</link>
+<thumbnail>https://s20.postimg.org/csjetqxe5/Disney_XD.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR white][B]Discovery Kids[/B][/COLOR]</title>
+<link>http://95.141.35.104:8081/look/discoverykids1/playlist.m3u8</link>
+<thumbnail>https://listaiptvbrasil.com/logo/discoverykids.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR white][B]Cartoon Network[/B][/COLOR]</title>
+<link>http://95.141.35.104:8081/look/cartoon8/playlist.m3u8</link>
+<thumbnail>https://listaiptvbrasil.com/logo/cartoon.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR white][B]Retrô Cartoon[/B][/COLOR]</title>
+<link>http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8</link>
+<thumbnail>https://lut.im/sh1ip2DP5J/8jScIxZVtuPkIwxY.JPG</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR white][B]Nick Jr.[/B][/COLOR]</title>
+<link>http://tv.ec.cx:1935/redecanais-stream-nick/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS</link>
+<thumbnail>https://s20.postimg.org/9yz566i6l/Nick_Jr.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR white][B]texte[/B][/COLOR]</title>
+<link>http://media-br-am.crackle.com/1/h/h6/f9vlf_480p.mp4</link>
+<thumbnail>https://s20.postimg.org/9yz566i6l/Nick_Jr.png</thumbnail>
+<fanart></fanart>
+</item>
