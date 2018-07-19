@@ -16,7 +16,7 @@
  
 <item>
 <title>[COLOR white][B]SPORT TV2 ING.[/B][/COLOR]</title>
-<link>http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_5_2264000.m3u8</link>
+<link>http://173.236.10.10:1935/dgrau/dgrau/live.m3u8</link>
 <thumbnail>http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/08/sportv2.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -29,15 +29,15 @@
 </item>
  
 <item>
-<title>[COLOR white][B]Fox Sports[/B][/COLOR]</title>
-<link>http://95.141.32.136:8081/look/foxsports/playlist.m3u8?PEDROJUNIORTUTORIAIS</link>
+<title>[COLOR white][B]ALL SPORTS TV2[/B][/COLOR]</title>
+<link>http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?AndreOid</link>
 <thumbnail>https://s20.postimg.org/6t0raqvf1/Fox_Sport.png</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR white][B]Mega TV[/B][/COLOR]</title>
-<link>http://rtmp.cdn.upx.net.br:1935/00135_4/myStream.sdp/chunklist_w2064216459.m3u8</link>
+<title>[COLOR white][B]ALL SPORTS ALTERNATIVO[/B][/COLOR]</title>
+<link>http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?CANAISGLAU</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5nFAJvpOUuMyaQkI_sLUxsXogQ9dJw6QuglcpqaOFj83WUmEF</thumbnail>
 <fanart></fanart>
 </item>
