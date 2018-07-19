@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+ 
+<item>
+<title>[COLOR white][B]Rede New[/B][/COLOR]</title>
+<link>http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8</link>
+<thumbnail>https://lut.im/92pOCiaEap/gXmhc5awJkTEX8S9.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR white][B]RedeTV![/B][/COLOR]</title>
+<link>http://evpp.mm.uol.com.br/redetv1/redetv1/playlist.m3u8</link>
+<thumbnail>http://www.tvmagazine.com.br/imagens/icones/600/redetv.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR white][B]TV DIFUSORA[/B][/COLOR]</title>
+<link>http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8?LISTASGLAU</link>
+<thumbnail>http://www.ma10.com.br/wp-content/uploads/2016/04/difusora-1-770x410.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR white][B]REDE FAMÍLIA[/B][/COLOR]</title>
+<link>http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8</link>
+<thumbnail>https://lut.im/nqxxaiqRsh/aPqzUMslWtnGjcyq.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR white][B]TV GAZETA[/B][/COLOR]</title>
+<link>http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8</link>
+<thumbnail>http://listaiptvbrasil.com/logos/tvgazeta.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR white][B]GLOBO[/B][/COLOR]</title>
+<link>http://95.141.32.213:8081/looktvs/globo/playlist.m3u8</link>
+<thumbnail>https://listaiptvbrasil.com/logo/globo.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR white][B]Amazon Sat[/B][/COLOR]</title>
+<link>http://gbbrlive2.sambatech.com.br:80/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/live.m3u8</link>
+<thumbnail>http://mkttv.net/wp-content/uploads/2009/12/amazonsat.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR white][B]TV FUTURA[/B][/COLOR]</title>
+<link>http://rsync.com.br:8081/rtsp/tbc/playlist.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/-FRwvfI-C_FA/U5crLqzLcCI/AAAAAAAAEGY/HLScmFMnEDo/s1600/tv-futura.fw.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR white][B]SBT[/B][/COLOR]</title>
+<link>http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8?FORMIGAtv</link>
+<thumbnail>http://www.downloadswallpapers.com/wallpapers/2012/julho/logo-do-sbt-wallpaper-12224.jpg</thumbnail>
+<fanart></fanart>
+</item>
