@@ -9,15 +9,15 @@
  
 <item>
 <title>[COLOR white][B]Globo News[/B][/COLOR]</title>
-<link>http://173.236.10.10:1935/gvnews/gvnews/playlist.m3u8</link>
+<link>http://173.236.10.10:1935/gvnews/gvnews/live.m3u8</link>
 <thumbnail>http://i.imgur.com/c21RpSs.png</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR white][B]SPORT TV2 ING.[/B][/COLOR]</title>
-<link>http://173.236.10.10:1935/dgrau/dgrau/live.m3u8</link>
-<thumbnail>http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/08/sportv2.png</thumbnail>
+<title>[COLOR white][B]NICK_JR[/B][/COLOR]</title>
+<link>http://189.216.247.113/Content/HLS/Live/Channel(NICK_JR)/index.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png</thumbnail>
 <fanart></fanart>
 </item>
  
@@ -30,15 +30,15 @@
  
 <item>
 <title>[COLOR white][B]ALL SPORTS TV2[/B][/COLOR]</title>
-<link>http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?AndreOid</link>
-<thumbnail>https://s20.postimg.org/6t0raqvf1/Fox_Sport.png</thumbnail>
+<link>http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?CANAISGLAU</link>
+<thumbnail>https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/all-sports.png</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR white][B]ALL SPORTS ALTERNATIVO[/B][/COLOR]</title>
-<link>http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?CANAISGLAU</link>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5nFAJvpOUuMyaQkI_sLUxsXogQ9dJw6QuglcpqaOFj83WUmEF</thumbnail>
+<title>[COLOR white][B]SPACE[/B][/COLOR]</title>
+<link>http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8</link>
+<thumbnail>https://1.bp.blogspot.com/-LrWhQBx4zi0/WmO2Ibo5_5I/AAAAAAABDbM/wjOq8TCWZWoAoJTnkvXnc4cZY5Ssu36DACLcBGAs/s640/spacehd.png</thumbnail>
 <fanart></fanart>
 </item>
  
