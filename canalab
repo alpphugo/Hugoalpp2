@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
  
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GoiÃ¡s",FonteTV (GO)
+http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
+
 <item>
 <title>[COLOR white][B]Rede New[/B][/COLOR]</title>
 <link>http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8</link>
