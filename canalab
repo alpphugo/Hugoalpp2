@@ -15,15 +15,15 @@
 </item>
  
 <item>
-<title>[COLOR white][B]TV DIFUSORA[/B][/COLOR]</title>
+<title>[COLOR white][B]SBT[/B][/COLOR]</title>
 <link>http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8?LISTASGLAU</link>
-<thumbnail>http://www.ma10.com.br/wp-content/uploads/2016/04/difusora-1-770x410.jpg</thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1024px-Logotipo_do_SBT.svg.png</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>[COLOR white][B]SBT[/B][/COLOR]</title>
-<link>http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8</link>
+<title>[COLOR white][B]SBT2[/B][/COLOR]</title>
+<link>http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1049268288_b796000.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1024px-Logotipo_do_SBT.svg.png</thumbnail>
 <fanart></fanart>
 </item>
