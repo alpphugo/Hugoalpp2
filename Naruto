@@ -1,16 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://i.imgur.com/WNltwI9.jpg" group-title="Naruto DUB",1-DUB Naruto
-http://www.blogger.com/video-play.mp4?contentId=c1a13639181a4b02
-#EXTINF:-1 tvg-logo="http://i.imgur.com/WNltwI9.jpg" group-title="Naruto DUB",2-DUB Naruto
-http://www.blogger.com/video-play.mp4?contentId=b90ae3016eb41a96
-#EXTINF:-1 tvg-logo="http://i.imgur.com/WNltwI9.jpg" group-title="Naruto DUB",3-DUB Naruto
-http://www.blogger.com/video-play.mp4?contentId=a44429efcb429dc
-#EXTINF:-1 tvg-logo="http://i.imgur.com/WNltwI9.jpg" group-title="Naruto DUB",4-DUB Naruto
-http://www.blogger.com/video-play.mp4?contentId=9657efcdd32944b4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/WNltwI9.jpg" group-title="Naruto DUB",5-DUB Naruto
-http://www.blogger.com/video-play.mp4?contentId=17182dc8cfd364ed
-#EXTINF:-1 tvg-logo="http://i.imgur.com/WNltwI9.jpg" group-title="Naruto DUB",6-DUB Naruto
-http://www.blogger.com/video-play.mp4?contentId=c008b8983bc142b7
+#EXTINF:-1 tvg-logo="http://pictures.lhmtv.cf/series/1ct1.jpg" group-title="1 Contra Todos", 1T-E01 A Justica e Cega
+http://ninoflix.lhmtv.gq/play/?contentId=8456caa16d815a93&LHMTv
+#EXTINF:-1 tvg-logo="http://pictures.lhmtv.cf/series/1ct1.jpg" group-title="1 Contra Todos", 1T-E02 Lei Vem do Rei
+http://ninoflix.lhmtv.gq/play/?contentId=430d3373b780bdef&LHMTv
+#EXTINF:-1 tvg-logo="http://pictures.lhmtv.cf/series/1ct1.jpg" group-title="1 Contra Todos", 1T-E03 Caminho do Crime
+http://ninoflix.lhmtv.gq/play/?contentId=7b1102fc3dd528b0&LHMTv
+#EXTINF:-1 tvg-logo="http://pictures.lhmtv.cf/series/1ct1.jpg" group-title="1 Contra Todos", 1T-E04 Reino Encantado
+http://ninoflix.lhmtv.gq/play/?contentId=d1094e35f6cdc063&LHMTv
+#EXTINF:-1 tvg-logo="http://pictures.lhmtv.cf/series/1ct1.jpg" group-title="1 Contra Todos", 1T-E05 Dr X Dr
+http://ninoflix.lhmtv.gq/play/?contentId=87fc7dd91a4dac52&LHMTv
+#EXTINF:-1 tvg-logo="http://pictures.lhmtv.cf/series/1ct1.jpg" group-title="1 Contra Todos", 1T-E06 Verdade nao se Cria
+http://ninoflix.lhmtv.gq/play/?contentId=f2ea2f0177a6aa99&LHMTv
+#EXTINF:-1 tvg-logo="http://pictures.lhmtv.cf/series/1ct1.jpg" group-title="1 Contra Todos", 1T-E07 Final
+http://ninoflix.lhmtv.gq/play/?contentId=93bc9f78846463da&LHMTv
+#EXTINF:-1 tvg-logo="http://pictures.lhmtv.cf/series/1ct1.jpg" group-title="1 Contra Todos", 1T-E08 Agora e Contra Todos
+http://ninoflix.lhmtv.gq/play/?contentId=ec251c24ffcafc6b&LHMTv
 #EXTINF:-1 tvg-logo="http://i.imgur.com/WNltwI9.jpg" group-title="Naruto DUB",7-DUB Naruto
 http://www.blogger.com/video-play.mp4?contentId=aed21e5dd8e6f90c
 #EXTINF:-1 tvg-logo="http://i.imgur.com/WNltwI9.jpg" group-title="Naruto DUB",8-DUB Naruto
