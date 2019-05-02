@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://pictures.lhmtv.cf/series/1ct1.jpg" group-title="1 Contra Todos", 1T-E01 A Justica e Cega
-http://ninoflix.lhmtv.gq/play/?contentId=8456caa16d815a93&LHMTv
+https://r1---sn-bxpbiucg51pa-btoe.googlevideo.com/videoplayback?id=430d3373b780bdef&itag=18&source=blogger&pl=24&ei=wlLLXLOSKIfSqQXljKOADQ&susc=bl&mime=video/mp4&dur=2415.989&lmt=1509689574720095&ip=2607:5300:60:49ba::&ipbits=0&expire=1556857666&sparams=dur,ei,expire,id,ip,ipbits,ipbypass,itag,lmt,mime,mip,mm,mn,ms,mv,pcm2cms,pl,source,susc&signature=4D1781C89AD2E61E60D143BB0B22C32C04B02E57.84A9A634A33D514C0B537E90ADD789BB41837B5F&key=cms1&redirect_counter=1&rm=sn-p5qry7z&req_id=3e9ce1f8c2f7a3ee&cms_redirect=yes&ipbypass=yes&mip=45.65.221.20&mm=31&mn=sn-bxpbiucg51pa-btoe&ms=au&mt=1556828741&mv=m&pcm2cms=yes
 #EXTINF:-1 tvg-logo="http://pictures.lhmtv.cf/series/1ct1.jpg" group-title="1 Contra Todos", 1T-E02 Lei Vem do Rei
 http://ninoflix.lhmtv.gq/play/?contentId=430d3373b780bdef&LHMTv
 #EXTINF:-1 tvg-logo="http://pictures.lhmtv.cf/series/1ct1.jpg" group-title="1 Contra Todos", 1T-E03 Caminho do Crime
